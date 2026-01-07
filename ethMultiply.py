@@ -6,5 +6,5 @@ def ethiopian_multiply(a, b):
         a = a // 2
         b = b * 2
     return result
-# test für 
+# test für Maëlle
 
