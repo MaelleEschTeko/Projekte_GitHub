@@ -7,5 +7,4 @@ def ethiopian_multiply(a, b):
         b = b * 2
     return result
 
-# test
 
